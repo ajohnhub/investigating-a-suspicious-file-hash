@@ -18,6 +18,7 @@ Scenario: <br/>
 <br />
 Review the details of the alerts:  <br/>
 <img width="613" alt="step2" src="https://github.com/user-attachments/assets/c28e2c16-66db-4565-a375-55c9562f2fe0">
+<img width="485" alt="mock email" src="https://github.com/user-attachments/assets/f06ec8e1-5d50-413e-8331-648f4ac5b1b7">
 <br />
 <br />
 Enter the SHA256 file has into the search box and press enter: <br/>
@@ -32,16 +33,18 @@ Analyze and examine the VirusTotal report by exploring the Detection, Details, R
 <img width="1433" alt="step8" src="https://github.com/user-attachments/assets/1cf308f7-cd68-4ba5-99e4-2771bbbdcd92">
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Determine whether the file is malicous by reviewing the Vendors' ratio, Community Score, and Security Vendors analysis (under the Detection tab):  <br/>
+<img width="913" alt="step9" src="https://github.com/user-attachments/assets/5c4d637d-a980-4b3b-a9ca-164888ae72f7">
+<img width="928" alt="step10" src="https://github.com/user-attachments/assets/d7177d99-73c5-44ce-9774-6cd844364bf9">
+<img width="673" alt="step11" src="https://github.com/user-attachments/assets/8c52a985-8069-4631-ae6e-36063a1ae110">
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Update and Escalate alert ticket based on findings:  <br/>
+<img width="473" alt="alert ticket" src="https://github.com/user-attachments/assets/ee0a9d18-9e70-419e-97f4-b9116f75229a">
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Document your investigation in your Incident Handlers Journal:  <br/>
+<img width="497" alt="step14" src="https://github.com/user-attachments/assets/76d20cbc-3c6a-45e7-a2ea-4c05fe6eaf82">
 </p>
 
 <!--

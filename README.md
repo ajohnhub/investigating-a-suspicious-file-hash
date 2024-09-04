@@ -17,8 +17,8 @@ Scenario: <br/>
 <br />
 <br />
 Review the details of the alerts:  <br/>
-<img width="613" alt="step2" src="https://github.com/user-attachments/assets/c28e2c16-66db-4565-a375-55c9562f2fe0">
 <img width="485" alt="mock email" src="https://github.com/user-attachments/assets/f06ec8e1-5d50-413e-8331-648f4ac5b1b7">
+<img width="613" alt="step2" src="https://github.com/user-attachments/assets/c28e2c16-66db-4565-a375-55c9562f2fe0">
 <br />
 <br />
 Enter the SHA256 file has into the search box and press enter: <br/>

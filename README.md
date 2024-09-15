@@ -9,7 +9,7 @@ This project simulates the process of a Level One Security Operations Center (SO
 
 - <b>VirusTotal</b> 
 
-<h2>Investiagtion walk-through:</h2>
+<h2>Investigation walk-through:</h2>
 
 <p align="center">
 Scenario: <br/>
